@@ -25,5 +25,5 @@ variable "tag_name" {
 
 variable "ami_id" {
   description = "AMI for ubutu Ec2 instance"
-  default     = "ami-038b3df3312ddf25d"
+  default     = " ami-033b95fb8079dc481"
 }
